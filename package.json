@@ -1,0 +1,32 @@
+{
+  "name": "column-layout-component",
+  "version": "1.0.0",
+  "description": "Column Layout - Component template for Magnolia CMS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topherzee/column-layout-component.git"
+  },
+  "keywords": [
+    "magnolia-light-module",
+    "magnolia-component",
+    "magnolia",
+    "light",
+    "module",
+    "template",
+    "component",
+    "cms",
+    "responsive",
+    "column",
+    "row"
+  ],
+  "author": "Christopher Zimmermann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/topherzee/column-layout-component/issues"
+  },
+  "homepage": "https://github.com/topherzee/column-layout-component#readme"
+}

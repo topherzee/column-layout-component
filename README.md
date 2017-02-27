@@ -1,4 +1,4 @@
-# Column Layout - Component templates for Magnolia CMS #
+# Column Layout - Component template for Magnolia CMS #
 
 Divide a section of your page into columns. Each column has an area which accepts additional components. The columns are responsive, meaning that they will stack vertically on narrow screens.
 
